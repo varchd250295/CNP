@@ -1,4 +1,5 @@
 // Test for Image, Video, Audio, DLL
+// Byte Stream
 
 import java.io.*;
 import java.net.*;
