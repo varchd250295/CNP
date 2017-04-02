@@ -1,4 +1,4 @@
-// Test for Image, Video, Audio, DLL
+// Test for Image, Video, Audio, DLL files
 // Byte Stream due 18th
 
 import java.io.*;
